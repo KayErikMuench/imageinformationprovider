@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.kay-muench</groupId>
 	<artifactId>imageinformationprovider</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>imageinformationprovider</name>
 	<url>https://github.com/KayErikMuench/imageinformationprovider.git</url>
 	<description>Provides information about an image</description>
@@ -56,7 +56,7 @@
 		<url>https://github.com/KayErikMuench/imageinformationprovider.git</url>
 		<connection>scm:git:https://github.com/KayErikMuench/imageinformationprovider.git</connection>
 		<developerConnection>scm:git:https://github.com/KayErikMuench/imageinformationprovider.git</developerConnection>
-	  <tag>imageinformationprovider-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<inceptionYear>2014</inceptionYear>
 </project>
